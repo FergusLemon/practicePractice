@@ -1,0 +1,14 @@
+.overlay {
+    width: 50%;
+    height: 150px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -250px;
+    z-index: 10;
+    background: #2d2d2d;
+    color: #FFF;
+    padding: 10px 20px;
+    outline: 9999px solid rgba(0,0,0,0.4);
+}
